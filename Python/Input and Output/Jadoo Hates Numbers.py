@@ -1,1 +1,0 @@
-print(ord("d")*3+ord("x")) 
